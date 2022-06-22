@@ -15,6 +15,8 @@ export function Store(){
         ))}
         
     </Row>
+    <p className="d-flex align-items-center justify-content-center mt-5">©Designed & Developed by-<i>Arzamaan</i></p>
+
     </div>
     </>
     )
