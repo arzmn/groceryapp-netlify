@@ -2,9 +2,8 @@
 
 <h3>Deployed Project URL</h3>: https://arzamaan-grocery.netlify.app/
 <h3> Snapshots</h3>
-![alt text](https://ibb.co/k6Kx558)
-<!-- <img src="https://ibb.co/k6Kx558">
-<img src="https://ibb.co/xfksfMS"> -->
+<img src="https://postimg.cc/ygB85CnQ">
+<img src="https://ibb.co/xfksfMS">
 
 <hr/>
 <h2>Starting Guide</h2>
